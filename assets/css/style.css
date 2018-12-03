@@ -1,15 +1,27 @@
 body {
-    background-color: #FDD2DC;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFztPyIbhxiG-7VYLWmPa2pptNf3HYsAK9PdZDdosTYAWVQOykQ"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
 }
 
 .container{
-    text-align: center;
+    text-align: left;
+    color: white;
+    font-size: x-large;
     padding-top: 5%;
-    background-image: url("https://cdn.cliqueinc.com/cache/posts/189696/cannabis-weed-skincare-189696-1519310128285-main.900x0c.jpg?interlace=true&quality=70");
+    
 }
 
+
 #instruction{
-	text-align: center;
+    text-align: left;    
+    color: white;
+    padding: 0%;
 }
 
 img {
@@ -22,14 +34,6 @@ img {
 .questions1{
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
-    
-}
-
-.questions4{
-    font-family: 'Times New Roman', Times, serif;
-}
-
-.questions5{
-    text-align: left;
-    font-family: 'Times New Roman', Times, serif;
-}
+    font-size: large;
+    color: white;
+};
