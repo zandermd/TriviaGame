@@ -1,8 +1,8 @@
 body {
-    width: 100%;
+    width: auto;
     height: auto;
     margin: 0;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFztPyIbhxiG-7VYLWmPa2pptNf3HYsAK9PdZDdosTYAWVQOykQ"); 
+    background-image: url("https://cdn.hipwallpaper.com/i/82/68/srzLSU.jpg"); 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,12 +15,13 @@ body {
     font-size: x-large;
     padding-top: 5%;
     
+    
 }
 
 
 #instruction{
     text-align: left;    
-    color: white;
+    color: #f2efc7;
     padding: 0%;
 }
 
@@ -35,5 +36,13 @@ img {
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
-    color: white;
+    color: #f2efc7;
+    /* padding: 20px;
+    margin: 15%; */
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 };
